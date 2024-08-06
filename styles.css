@@ -13,7 +13,8 @@
 }
 
 .text-color {
-  color: #FFFFFF;
+  foreground-color: #808080;
+  color: #808080;
 }
 
 .footer {
